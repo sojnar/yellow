@@ -6,3 +6,4 @@ read -p "Digite seu nome: " name
 echo $name
 
 echo "teste"
+#comentario novo
